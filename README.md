@@ -17,7 +17,7 @@ apm install markdown-toc
 - Depth control [1-6] with `depthFrom:1` and `depthTo:6`
 - Enable or disable links with `withLinks:1`
 - Refresh list on save with `updateOnSave:1`
-- Use ordered list (1. ..., 2. ...) with `orderedList:0`
+- Use ordered list (1. ..., 2. ...) with `orderedList:1`
 
 ## Contributors
 
